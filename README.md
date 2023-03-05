@@ -17,3 +17,5 @@ Number Plate Recognition System is car license plate identification system made 
 * python 3.7
 * OpenCV >= 4
 * Numpy
+
+##Note: This is just trial work it may not work efficiently with all the videos, we are working on the better of learning model
